@@ -7,3 +7,12 @@ C:\Users\DONATIL_INFO\Documents\Visual Studio 2013\Projects\WFCible\WFCible\obj\
 C:\Users\DONATIL_INFO\Documents\Visual Studio 2013\Projects\WFCible\WFCible\obj\Debug\WFCible.csproj.GenerateResource.Cache
 C:\Users\DONATIL_INFO\Documents\Visual Studio 2013\Projects\WFCible\WFCible\obj\Debug\WFCible.exe
 C:\Users\DONATIL_INFO\Documents\Visual Studio 2013\Projects\WFCible\WFCible\obj\Debug\WFCible.pdb
+C:\Users\DONATIL_INFO\Documents\GitHub\WFCible\WFCible\bin\Debug\WFCible.exe.config
+C:\Users\DONATIL_INFO\Documents\GitHub\WFCible\WFCible\obj\Debug\WFCible.exe
+C:\Users\DONATIL_INFO\Documents\GitHub\WFCible\WFCible\obj\Debug\WFCible.pdb
+C:\Users\DONATIL_INFO\Documents\GitHub\WFCible\WFCible\bin\Debug\WFCible.exe
+C:\Users\DONATIL_INFO\Documents\GitHub\WFCible\WFCible\bin\Debug\WFCible.pdb
+C:\Users\DONATIL_INFO\Documents\GitHub\WFCible\WFCible\obj\Debug\WFCible.csprojResolveAssemblyReference.cache
+C:\Users\DONATIL_INFO\Documents\GitHub\WFCible\WFCible\obj\Debug\WFCible.Properties.Resources.resources
+C:\Users\DONATIL_INFO\Documents\GitHub\WFCible\WFCible\obj\Debug\WFCible.csproj.GenerateResource.Cache
+C:\Users\DONATIL_INFO\Documents\GitHub\WFCible\WFCible\obj\Debug\WFCible.frmMain.resources
